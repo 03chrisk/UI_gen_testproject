@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit fix:*)",
+      "Bash(npm install:*)",
+      "Bash(npm audit:*)",
+      "Bash(npm view:*)",
+      "Bash(npm run test:*)",
+      "mcp__playwright"
+
+    ]
+  }
+}
